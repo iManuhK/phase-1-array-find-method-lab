@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-03-26T16:30:41.170Z",
+    "end": "2024-03-26T16:30:41.422Z",
+    "duration": 252
+  },
+  "tests": [
+    {
+      "title": "returns a year the Denver Broncos won the superbowl",
+      "fullTitle": "superbowlWin(record) returns a year the Denver Broncos won the superbowl",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns undefined if the record has no win objects",
+      "fullTitle": "superbowlWin(record) returns undefined if the record has no win objects",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns a year the Denver Broncos won the superbowl",
+      "fullTitle": "superbowlWin(record) returns a year the Denver Broncos won the superbowl",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns undefined if the record has no win objects",
+      "fullTitle": "superbowlWin(record) returns undefined if the record has no win objects",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
